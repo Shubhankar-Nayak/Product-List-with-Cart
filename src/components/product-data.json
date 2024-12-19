@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Waffle",
+        "desc": " Waffle with Berries",
+        "price": "$6.50",
+        "imageKey": "waffle",
+        "imageKeyd": "waffled"
+    },
+    {
+        "id": 2,
+        "title": "Crème Brûlée",
+        "desc": "Vanilla Bean Crème Brûlée",
+        "price": "$7.00",
+        "imageKey": "creme",
+        "imageKeyd": "cremed"
+    },
+    {
+        "id": 3,
+        "title": "Macaron",
+        "desc": "Macaron Mix of Five",
+        "price": "$8.00",
+        "imageKey": "macaron",
+        "imageKeyd": "macarond"
+    },
+    {
+        "id": 4,
+        "title": "Tiramisu",
+        "desc": "Classic Tiramisu",
+        "price": "$5.50",
+        "imageKey": "tiramisu",
+        "imageKeyd": "tiramisud"
+    },
+    {
+        "id": 5,
+        "title": "Baklava",
+        "desc": "Pistachio Baklava",
+        "price": "$4.00",
+        "imageKey": "baklava",
+        "imageKeyd": "baklavad"
+    },
+    {
+        "id": 6,
+        "title": "Pie",
+        "desc": "Lemon Meringue Pie",
+        "price": "$5.00",
+        "imageKey": "meringue",
+        "imageKeyd": "meringued"
+    },
+    {
+        "id": 7,
+        "title": "Cake",
+        "desc": "Red Velvet Cake",
+        "price": "$4.50",
+        "imageKey": "cake",
+        "imageKeyd": "caked"
+    },
+    {
+        "id": 8,
+        "title": "Brownie",
+        "desc": "Salted Caramel Brownie",
+        "price": "$4.50",
+        "imageKey": "brownie",
+        "imageKeyd": "brownied"
+    },
+    {
+        "id": 9,
+        "title": "Panna Cotta",
+        "desc": "Vanilla Panna Cotta ",
+        "price": "$6.50",
+        "imageKey": "panna",
+        "imageKeyd": "pannad"
+    }
+]
